@@ -1,0 +1,31 @@
+{
+ "brand": "Square Foot Stories",
+ "site_url": "https://squarefootstories.github.io/",
+ "boards": [
+  {
+   "name": "Small Living Room Ideas",
+   "slug": "small-living-room-ideas"
+  },
+  {
+   "name": "Bedroom Decor Ideas",
+   "slug": "bedroom-decor-ideas"
+  },
+  {
+   "name": "Small Space Storage",
+   "slug": "small-space-storage"
+  },
+  {
+   "name": "Home Decor on a Budget",
+   "slug": "home-decor-on-a-budget"
+  },
+  {
+   "name": "Kitchen Organization",
+   "slug": "kitchen-organization"
+  },
+  {
+   "name": "Cozy Home Ideas",
+   "slug": "cozy-home-ideas"
+  }
+ ],
+ "items": []
+}
