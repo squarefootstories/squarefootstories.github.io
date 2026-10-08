@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://squarefootstories.github.io/sitemap.xml
